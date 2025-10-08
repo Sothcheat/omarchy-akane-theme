@@ -8,7 +8,7 @@ It embodies the balance between stillness and motion, silence and passion — a 
 ### 1: Main
 Akane theme offers 4 backgrounds.
 
-![Preview3](./preview-3/jpg)
+![Preview 3](./preview-3.jpg)
 
 ### 2: Others
 
