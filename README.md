@@ -39,6 +39,10 @@ Akane theme offers 4 backgrounds.
 ![Preview 1](./preview-1.png)
 ![Preview 2](./preview-2.png)
 
+### 3: VS Code
+
+![Preview 3](./preview-3.png)
+
 ## Color Consistency
 
 All configurations now use the same standardized color palette. See `COLOR_REFERENCE.md` for detailed color mappings across all applications.
