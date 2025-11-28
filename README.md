@@ -30,6 +30,8 @@ It embodies the balance between stillness and motion, silence and passion — a 
 
 This theme includes support for Zed editor.
 
+**Prerequisites:** Ensure the Omarchy Akane theme is installed at `~/.config/omarchy/themes/akane/` first.
+
 1. After installing the Omarchy theme, run:
 
 ```bash
