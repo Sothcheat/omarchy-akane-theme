@@ -7,6 +7,8 @@ RED='\033[0;31m'
 NC='\033[0m' # No Color
 
 # Check if Zed is installed
+# Note: Proceeds if EITHER zed command OR config directory exists.
+# This handles non-standard installations and existing config directories.
 if ! command -v zed &> /dev/null && [ ! -d "$HOME/.config/zed" ]; then
     echo -e "${YELLOW}Warning: Zed editor is not installed or Zed config directory not found.${NC}"
     echo -e "${YELLOW}Skipping Zed theme installation.${NC}"
